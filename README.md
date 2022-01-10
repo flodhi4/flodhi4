@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flodhi4
 - 👀 I’m interested in Sports, Sports Analytics, and Programming
-- 🌱 I’m currently learning Data Analysis on Python
+- 🌱 I’m currently learning Data Analysis on Python and R
 - 💞️ I’m looking to collaborate on any kind of NHL/NBA analytics projects.
 
 <!---
